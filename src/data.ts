@@ -10,7 +10,7 @@ export const PersonalInfo: AboutMeData = {
   links: {
     github: "https://github.com/killergremal1996",
     itchIO: "https://killergremal.itch.io",
-    linkedIn: "www.linkedin.com/in/danny-chadbond-9a0661394",
+    linkedIn: "https://linkedin.com/in/danny-chadbond-9a0661394",
   }
 };
 
