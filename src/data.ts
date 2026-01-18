@@ -1,10 +1,10 @@
 import { AboutMeData, Game, GameEngine, LinkImageSource, MediaType, Platform } from "./types";
 
 export const PersonalInfo: AboutMeData = {
-  name: "YOUR_NAME",
-  role: "YOUR_ROLE",
+  name: "Danny Chadbond",
+  role: "Game Developer",
   introduction: "2nd Year Game Dev Student at MMU University. Aspiring to create fun & interesting games using Unity & Unreal Engine.",
-  description: "Hi, I'm Danny! Gaming has always been a passion of mine and from the many experiences would love to create my own games for others to enjoy. I am within my 2nd year of University at MMU in Manchester, I have used both Unreal & Unity and I'm constantly exploring the many ways I can better myself in developing games. My aim is to create fun games within fun moving sandboxes and eventually join a company where I can deepen my passion and knowledge for gaming as a whole.",
+  description: "Hi, I'm Danny! Gaming has always been a passion of mine and from my many experiences would love to create my own games for others to enjoy. I am within my 2nd year of University at MMU in Manchester, I have used both Unreal & Unity and I'm constantly exploring the many ways I can better myself in developing games. My aim is to create fun games within fun moving sandboxes and eventually join a company where I can deepen my passion and knowledge for gaming as a whole.",
   image: `${process.env.PUBLIC_URL}/images/Profile.jpg`,
   cvUri: `${process.env.PUBLIC_URL}/files/YOUR_CV.pdf`,
   links: {
