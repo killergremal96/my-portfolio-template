@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/my-portfolio-template/static/css/main.4f87af0a.css",
-    "main.js": "/my-portfolio-template/static/js/main.bfe2e8d1.js",
+    "main.js": "/my-portfolio-template/static/js/main.058f59c6.js",
     "static/media/Oxanium.ttf": "/my-portfolio-template/static/media/Oxanium.50bb18b058c797a89438.ttf",
     "static/media/PhoenixGaming.ttf": "/my-portfolio-template/static/media/PhoenixGaming.52b75a56ef9f70c20259.ttf",
     "static/media/ZenDots.ttf": "/my-portfolio-template/static/media/ZenDots.ad9e0d65654bb49213b6.ttf",
     "static/media/PixelGame.otf": "/my-portfolio-template/static/media/PixelGame.a7040ee1df82fd46813b.otf",
     "index.html": "/my-portfolio-template/index.html",
     "main.4f87af0a.css.map": "/my-portfolio-template/static/css/main.4f87af0a.css.map",
-    "main.bfe2e8d1.js.map": "/my-portfolio-template/static/js/main.bfe2e8d1.js.map"
+    "main.058f59c6.js.map": "/my-portfolio-template/static/js/main.058f59c6.js.map"
   },
   "entrypoints": [
     "static/css/main.4f87af0a.css",
-    "static/js/main.bfe2e8d1.js"
+    "static/js/main.058f59c6.js"
   ]
 }
