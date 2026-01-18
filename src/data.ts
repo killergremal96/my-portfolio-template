@@ -16,8 +16,8 @@ export const PersonalInfo: AboutMeData = {
 
 export const games: Game[] = [
   {
-    name: "Robot_Runner",
-    description: "A basic prototype of a 2D Side-Scrolling Platformer, where as time speeds up, so does your character.",
+    name: "Robot Runner",
+    description: "A basic prototype from a Game Jam of a 2D Side-Scrolling Platformer, where as time speeds up, so does your character. Based on growth, the character can grow or shrink to adapt to the platform puzzles.",
     genres: ["2D", "Side-Scroller", "Platformer"],
     platforms: [Platform.Windows],
     engine: GameEngine.Unity,
